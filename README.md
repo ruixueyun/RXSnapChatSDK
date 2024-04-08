@@ -1,2 +1,2 @@
-# RXSnapChatSDK
-ruixue snapchat sdk
+# RXLineSDK
+ruixue line sdk
