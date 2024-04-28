@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RXSnapChatSDK'
-  s.version          = '3.0.1'
+  s.version          = '3.0.2'
   s.summary          = 'ruixue RXSnapChatSDK framework.'
 
 # This description is used to generate tags and improve searc results.

@@ -20,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (instancetype)sharedSDK;
 
 /**
- * 处理跳转参数 openUrl 方式
+ * openUrl 处理跳转信息
  */
 - (BOOL)application:(UIApplication *)application
             openURL:(NSURL *)url
